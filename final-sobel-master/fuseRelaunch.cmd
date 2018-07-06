@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/nitish/Desktop/apurva projects/finalversion1/testbench_isim_beh.exe" -prj "/home/nitish/Desktop/apurva projects/finalversion1/testbench_beh.prj" "testbench" 

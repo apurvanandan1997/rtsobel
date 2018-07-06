@@ -1,0 +1,5 @@
+work	"bigfifo.vhd"
+work	"convolution.vhd"
+work	"fifo.vhd"
+work	"fifosmall.vhd"
+work	"top.vhd"
